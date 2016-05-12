@@ -1,0 +1,28 @@
+name: leebones
+favicon: null
+layout_spectrum: 0.926096867537126
+typography_spectrum: 0.47306124679744244
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.3999905758537352
+  lightness: 0.7449810863472521
+  saturation: 0.09688592841848731
+  rhythmicContrast: 0.9162387375254184
+purpose: []
